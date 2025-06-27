@@ -1,3 +1,6 @@
+# 🔗 [View the Report Analysis](Placement_analysis.ipynb)
+
+
 # 📊 Student Placement Data Analysis
 
 This project analyzes student placement data to explore factors influencing placement success and salary levels. By examining this data, we aim to uncover trends and insights that can help educational institutions and students optimize placement strategies. The potential for actionable insights on how educational background, grades, and work experience impact employment outcomes makes this an exciting area of analysis.
